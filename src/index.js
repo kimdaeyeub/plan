@@ -42,6 +42,7 @@ background: linear-gradient(
 rgba(48, 207, 208, 0.913624824929972) 0%,
 rgba(51, 8, 103, 1) 100%
 );
+-webkit-font-family: 'Nanum Pen Script', cursive;
 }
 input,textarea{
 font-size:20px;
